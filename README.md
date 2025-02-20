@@ -1,0 +1,1 @@
+Each time the script is run, it appends a comment to its own source code.
